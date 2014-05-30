@@ -26,17 +26,23 @@ I started with this theme because I liked the basic black and white color scheme
 
 ####Plugins####
 
-Name: Google Analytics Dashboard for WP
+Name: Google Analytics Dashboard for WordPress - http://deconf.com/google-analytics-dashboard-wordpress/ 
 
 *Why did I choose this plugin?*
 
 I added this dashboard so that I don't have to log in to my google analytics page separately to view my page stats.
 
-Name: Widget Twitter
+Name: Widget Twitter - http://web-dorado.com/products/wordpress-twitter-integration-plugin.html 
 
 *Why did I choose this plugin?*
 
 I think it's important to add a Twitter share button on your blog posts so readers can tweet posts they want to share with their followers. This will expand your reach and hopefully increase your page views.
+
+Name: Google Analytics for WordPress - https://yoast.com/wordpress/plugins/google-analytics/
+
+*Why did I choose this plugin?*
+
+I set this up to add Google analytics tracking to my blog. I'm interested to see where my site traffic is coming from and the breakdown of who is viewing my blog.
 
 
 ####The Future####
