@@ -1,0 +1,16 @@
+/*
+ Theme Name:   nova-lite_child
+ Theme URI:    http://example.com/nova-lite_child/
+ Description:  nova lite child theme
+ Author:       jade shearstone
+ Author URI:   http://jade.shearstone.yoobee.net.nz/
+ Template:     nova-lite
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  nova-lite_child
+*/
+
+@import url("../nova-lite/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
