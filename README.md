@@ -21,7 +21,7 @@ Name: Nova Lite - http://wordpress.org/themes/nova-lite
 
 I started with this theme because I liked the basic black and white color scheme with the green hover. It has a simple design and layout. I have made some small tweaks to this using a child theme.
 
-*Please note: Although this theme is available within WordPress, I initially found it through a Google search and downloaded the file on to my local drive, added it to my wp-content/themes folder and pushed it to my remote serve using FileZilla.*
+*Please note: Although this theme is available within WordPress, I initially found it through a Google search and downloaded the file on to my local drive, added it to my wp-content/themes folder and pushed it to my remote server using FileZilla.*
 
 
 ####Plugins####
@@ -30,7 +30,7 @@ Name: Google Analytics Dashboard for WordPress - http://deconf.com/google-analyt
 
 *Why did I choose this plugin?*
 
-I added this dashboard so that I don't have to log in to my google analytics page separately to view my page stats.
+I added this dashboard so that I don't have to log in to my Google analytics page separately to view my page stats.
 
 Name: Widget Twitter - http://web-dorado.com/products/wordpress-twitter-integration-plugin.html 
 
