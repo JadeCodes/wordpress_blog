@@ -8,41 +8,59 @@ To create a blog on WordPress.
 
 ####Requirements####
 
-Live WordPress URL - http://jade.shearstone.yoobee.net.nz/
+[Live WordPress Blog](http://jade.shearstone.yoobee.net.nz/)
 
-GitHub Repo URL - https://github.com/JadeCodes/blog
+[GitHub Repo](https://github.com/JadeCodes/blog)
 
 
 ####Theme####
 
-Name: Nova Lite - http://wordpress.org/themes/nova-lite 
+Theme Name: [Graphy](http://themegraphy.com/graphy-wordpress-theme/)
 
 *Why did I choose this theme?*
 
-I started with this theme because I liked the basic black and white color scheme with the green hover. It has a simple design and layout. I have made some small tweaks to this using a child theme.
+I started with this theme because I liked the simple design and layout. It gives focus to the words, and limits distractions, giving the content of the blog priority. I have made some small tweaks to this using a child theme.
 
 *Please note: Although this theme is available within WordPress, I initially found it through a Google search and downloaded the file on to my local drive, added it to my wp-content/themes folder and pushed it to my remote server using FileZilla.*
 
 
 ####Plugins####
 
-Name: Google Analytics Dashboard for WordPress - http://deconf.com/google-analytics-dashboard-wordpress/ 
+Name: [Google Analytics for WordPress](https://yoast.com/wordpress/plugins/google-analytics/)
+
+*Why did I choose this plugin?*
+
+I set this up to add Google analytics tracking to my blog. I'm interested to see where my site traffic is coming from and the breakdown of who is viewing my blog. This plugin has over 5 million downloads and a 4+ star rating.
+
+Name: [Google Analytics Dashboard for WordPress](http://deconf.com/google-analytics-dashboard-wordpress/) 
 
 *Why did I choose this plugin?*
 
 I added this dashboard so that I don't have to log in to my Google analytics page separately to view my page stats.
 
-Name: Widget Twitter - http://web-dorado.com/products/wordpress-twitter-integration-plugin.html 
+Name: [Contact Form 7](http://contactform7.com/)
 
 *Why did I choose this plugin?*
 
-I think it's important to add a Twitter share button on your blog posts so readers can tweet posts they want to share with their followers. This will expand your reach and hopefully increase your page views.
+I added this plugin to set up a contact form page for my blog so readers can send me a private message instead of posting comments if they prefer.
 
-Name: Google Analytics for WordPress - https://yoast.com/wordpress/plugins/google-analytics/
+Name: [Jetpack by WordPress.com](http://jetpack.me/)
 
 *Why did I choose this plugin?*
 
-I set this up to add Google analytics tracking to my blog. I'm interested to see where my site traffic is coming from and the breakdown of who is viewing my blog.
+Because our site is self hosted on the Yoobee network, this plugin enables more of the standard WordPress features to be accessed. There are lots of new widgets available with this plugin but specifically, I have used the Twitter Timeline feature for my blog.
+
+Name: [Quotes Collection](http://srinig.com/wordpress/plugins/quotes-collection/)
+
+*Why did I choose this plugin?*
+
+I love a good quote! This plugin allows me to have quotes in my sidebar that change automatically. I have loaded in a couple of my favorite quotes and set them on a refresh of 10 seconds.
+
+Name: [Simple Social Icons](http://wordpress.org/plugins/simple-social-icons/)
+
+*Why did I choose this plugin?*
+
+The initial theme I trialled at the beginning of this project had built in social media icon links in the footer. When I changed to this new theme I wanted something similar and found this plugin.
 
 
 ####The Future####
