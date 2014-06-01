@@ -1,16 +1,21 @@
 /*
- Theme Name:   nova-lite_child
- Theme URI:    http://example.com/nova-lite_child/
- Description:  nova lite child theme
+ Theme Name:   graphy_child
+ Theme URI:    http://jade.shearstone.yoobee.net.nz/graphy_child/
+ Description:  graphy child theme
  Author:       jade shearstone
  Author URI:   http://jade.shearstone.yoobee.net.nz/
- Template:     nova-lite
+ Template:     graphy
  Version:      1.0.0
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
- Text Domain:  nova-lite_child
+ Text Domain:  graphy_child
 */
 
-@import url("../nova-lite/style.css");
+@import url("../graphy/style.css");
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+
+#simple-social-icons-2 > ul:before 
+{
+	content:none;
+}
