@@ -15,7 +15,14 @@
 /* =Theme customization starts here
 -------------------------------------------------------------- */
 
-#simple-social-icons-2 > ul:before 
-{
+.widget ul {
+	margin-left: 0em;
+}
+
+.widget ul li li:last-child {
+	padding-left: 0.8em;
+}
+
+.widget ul li:before {
 	content:none;
 }
